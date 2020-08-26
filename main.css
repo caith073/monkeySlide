@@ -5,3 +5,126 @@ body, html {
     margin: 0px;
     padding: 0px;
 }
+
+/** container */
+
+.container {
+    background-color: #4a4a4f;
+}
+
+/** name */
+
+.name {
+    color: #000;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.name1 {
+    background-color: #dfbdbd;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name2 {
+    background-color: #914c4c;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name3 {
+    background-color: #837cc2;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name4 {
+    background-color: #58a576;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name5 {
+    background-color: #d2d87a;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name6 {
+    background-color: #94b6c4;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name7 {
+    background-color: #b484a6;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name8 {
+    background-color: #35665a;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name9 {
+    background-color: #ad8989;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name10 {
+    background-color: #7cc9a5;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name11 {
+    background-color: #e66969;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.name12 {
+    background-color: #5fa2b6;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
