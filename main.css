@@ -1,7 +1,6 @@
 body, html {
     font-family: "Roboto", sans-serif;
-    background-color: #fff;
-    color: #fff;
+    background-color: #d0d5d9;
     margin: 0px;
     padding: 0px;
 }
@@ -14,6 +13,7 @@ body, html {
     padding-top: 1em;
     text-align: center;
     font-size: 3em;
+    color: #d0d5d9;
 }
 
 /** container */
@@ -44,9 +44,10 @@ body, html {
 
 .btn {
     background-color: #94b6c4;
+    border: 1px solid #94b6c4;
     font: "Roboto";
     margin: 1em;
-    padding-top: 10px;
+    padding-top: 14px;
     display: inline-block;
 }
 .btn--cta {
@@ -56,7 +57,7 @@ body, html {
 }
 
 .btn--red {
-    color: #4a4a4f;
+    color: #94b6c4;
     background-color: #5176a6;
     border-color: #5176a6;
 }
@@ -64,10 +65,15 @@ body, html {
 .btn--red:active,
 .btn--red:focus,
 .btn--red:active:focus {
-    background-color: #d0d5d9;
-    border-color: #d0d5d9;
+    background-color: #6f9abf;
+    border-color: #6f9abf;
     color: #000;
     font-family:"Consolas";
-    transition-delay: .3s;
-    transition-duration: .2s;
+    transition-delay: .2s;
+    transition-duration: .1s;
+}
+
+.footer {
+    height: 30vh;
+    background-color: #1b2226;
 }
