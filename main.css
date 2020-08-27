@@ -1,6 +1,6 @@
 body, html {
-    font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    background-color: #000;
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
     color: #fff;
     margin: 0px;
     padding: 0px;
@@ -25,9 +25,9 @@ body, html {
 
 .flex-container {
     height: 100vh;
-    background: url("images/TBN01_050709_lD_Rock_2MP_V2.jpg") no-repeat bottom right fixed;
+   /** background: url("images/TBN01_050709_lD_Rock_2MP_V2.jpg") no-repeat bottom right fixed;
      -webkit-background-size: cover;
-     -moz-background-size: cover;
+     -moz-background-size: cover; */
 }
 
 /** name */
@@ -37,29 +37,34 @@ body, html {
     margin: 10px;
     padding: 10px;
     text-align: center;
+    font: "Roboto";
 }
 
 .btn {
     background-color: #94b6c4;
+    font: "Roboto";
     margin: 1em;
     padding-top: 10px;
     display: inline-block;
 }
 .btn--cta {
     font-weight: bold;
-    border-radius: 14px;
+    border-radius: 16px;
     width: 160px;
 }
 
 .btn--red {
     color: white;
-    background-color: #f05f40;
-    border-color: #f05f40;
+    background-color: #5176a6;
+    border-color: #5176a6;
 }
 .btn--red:hover,
 .btn--red:active,
 .btn--red:focus,
 .btn--red:active:focus {
-    background-color: #df4929;
-    border-color: #df4929;
+    background-color: #d0d5d9;
+    border-color: #d0d5d9;
+    color: #000;
+    transition-delay: .3s;
+    transition-duration: .2s;
 }
