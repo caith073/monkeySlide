@@ -26,9 +26,38 @@ body, html {
 
 .flex-container {
     height: 100vh;
+    
+
+
    /** background: url("images/TBN01_050709_lD_Rock_2MP_V2.jpg") no-repeat bottom right fixed;
      -webkit-background-size: cover;
      -moz-background-size: cover; */
+}
+
+/** box */
+.box1 {
+    background-color: #733646;
+    display: inline-block;
+    height: 50%;
+    width: 33%;
+    margin: 1px;
+    text-align: center;
+}
+.box2 {
+    background-color: #5176a6;
+    display: inline-block;
+    height: 50%;
+    width: 33%;
+    margin: 0px;
+    text-align: center;
+}
+.box3 {
+    background-color: #6f9abf;
+    display: inline-block;
+    height: 50%;
+    width: 33%;
+    margin: 1px;
+    text-align: center;
 }
 
 /** name */
@@ -74,6 +103,6 @@ body, html {
 }
 
 .footer {
-    height: 30vh;
+    height: 20vh;
     background-color: #1b2226;
 }
