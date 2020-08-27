@@ -12,6 +12,14 @@ body, html {
     background-color: #4a4a4f;
 }
 
+/** flex-container */
+
+.flex-container {
+    height: 100vh;
+    background: url("images/TBN01_050709_lD_Rock_2MP_V2.jpg") no-repeat bottom right fixed;
+     -webkit-background-size: cover;
+}
+
 /** name */
 
 .name {
