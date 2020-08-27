@@ -10,7 +10,8 @@ body, html {
 
 .navbar {
     height: 15vh;
-    background-color: #000;
+    background-color: #1b2226;
+    padding-top: 1em;
     text-align: center;
     font-size: 3em;
 }
@@ -34,7 +35,8 @@ body, html {
 
 .name {
     color: #000;
-    margin: 10px;
+    background-color: #1b2226;
+    margin: 0px;
     padding: 10px;
     text-align: center;
     font: "Roboto";
