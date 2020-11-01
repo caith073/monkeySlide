@@ -9,7 +9,7 @@ body, html {
 
 .navbar {
     height: 15vh;
-    background-color: #1b2226;
+    background-color: #4a4a4f;
     padding-top: 1em;
     text-align: center;
     font-size: 3em;
@@ -40,7 +40,9 @@ body, html {
     display: inline-block;
     height: 50%;
     width: 33%;
-    margin: 1px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 0px;
     text-align: center;
 }
 .box2 {
@@ -49,6 +51,8 @@ body, html {
     height: 50%;
     width: 33%;
     margin: 0px;
+    margin-top: 5px;
+    padding: 0px;
     text-align: center;
 }
 .box3 {
@@ -56,7 +60,9 @@ body, html {
     display: inline-block;
     height: 50%;
     width: 33%;
-    margin: 1px;
+    margin: 0px;
+    margin-top: 5px;
+    padding: 0px;
     text-align: center;
 }
 
@@ -64,7 +70,7 @@ body, html {
 
 .name {
     color: #000;
-    background-color: #1b2226;
+    background-color: #4a4a4f;
     margin: 0px;
     padding: 10px;
     text-align: center;
