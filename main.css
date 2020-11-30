@@ -26,12 +26,15 @@ body, html {
 
 .flex-container {
     height: 100vh;
-    
-
-
-     background: url("images/TBN01_050709_lD_Rock_2MP_V2.jpg") no-repeat bottom right fixed;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
+    background: url("images/CMS front page image 3.png") no-repeat bottom right fixed;
+    padding: 15px;
+    opacity: 0.75;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    justify-content: center;
+    position: inherit;
 }
 
 /** box */
