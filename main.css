@@ -11,17 +11,17 @@ body, html {
     height: 15vh;
     background-color: #4a4a4f;
     padding-top: 1em;
-    opacity: 0.75;
+    opacity: 0.95;
     text-align: center;
     font-size: 3em;
-    color: #d0d5d9;
+    color: #fff;
 }
 
 /** container */
 
 .container {
     background-color: #000;
-    opacity: 0.65;
+    opacity: 0.85;
 }
 
 
@@ -103,7 +103,7 @@ body, html {
 }
 
 .btn--red {
-    color: #94b6c4;
+    color: #fff;
     background-color: #5176a6;
     border-color: #5176a6;
 }
@@ -123,5 +123,5 @@ body, html {
     height: 20vh;
     color: #fff; 
     background-color: #4a4a4f;
-    opacity: 0.55;
+    opacity: 0.75;
 }
