@@ -46,10 +46,9 @@ body, html {
     background-color: #733646;
     color: #fff;
     display: inline-block;
-    height: 50%;
-    width: 33%;
+    height: 30%;
+    width: 30%;
     margin-left: 5px;
-    margin-top: 5px;
     padding: 0px;
     text-align: center;
 }
@@ -57,10 +56,9 @@ body, html {
     background-color: #5176a6;
     color: #fff;
     display: inline-block;
-    height: 50%;
-    width: 33%;
-    margin: 0px;
-    margin-top: 5px;
+    height: 30%;
+    width: 30%;
+    margin-left: 60px;
     padding: 0px;
     text-align: center;
 }
@@ -68,10 +66,9 @@ body, html {
     background-color: #6f9abf;
     color: #fff;
     display: inline-block;
-    height: 50%;
-    width: 33%;
-    margin: 0px;
-    margin-top: 5px;
+    height: 30%;
+    width: 30%;
+    margin-left: 60px;
     padding: 0px;
     text-align: center;
 }
@@ -121,7 +118,8 @@ body, html {
 
 .footer {
     height: 20vh;
-    color: #fff; 
+    color: #fff;
+    text-align: center; 
     background-color: #4a4a4f;
     opacity: 0.75;
 }
